@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
   </a>
 </p>
 <p align="center">
-     <h1Version Control</h1>
+     <h1>Others</h1>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,postman," />
   </a>
