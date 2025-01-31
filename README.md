@@ -77,4 +77,27 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=john-doe&layout=compact)
 
+# My MERN Stack Portfolio
+
+## 🔧 Technologies & Tools
+<!-- Include your tech section here -->
+
+## GitHub Stats ⚡
+
+<details>
+  <summary>Click to view GitHub Stats</summary>
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=john-doe&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+</details>
+
+## Most Used Languages
+
+<details>
+  <summary>Click to view Most Used Languages</summary>
+
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=john-doe&layout=compact)
+
+</details>
+
 ### Feel free to explore my repositories, check out my projects, and let's connect! Happy coding! 😊
