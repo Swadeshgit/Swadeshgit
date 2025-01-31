@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
 - **Database**: MongoDB, Firebase
 - **Version Control**: Git, GitHub
 - **Others**: Docker, Nginx, Postman
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 🔧 Technologies & Tools
 
