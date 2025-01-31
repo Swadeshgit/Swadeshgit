@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
   <p align="center">
   <h1>Frontend</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,Bootstrap,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,bootstrap,materialui" />
   </a>
 </p>
   <p align="center">
