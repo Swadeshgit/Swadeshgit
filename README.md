@@ -41,13 +41,13 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
     <img src="https://skillicons.dev/icons?i=mongodb,firebase,sql,," />
   </a>
 </p>
-  <p align="center">
+<p align="center">
      <h1> Version Control</h1>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github," />
   </a>
 </p>
-         <p align="center">
+<p align="center">
      <h1Version Control</h1>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,postman," />
