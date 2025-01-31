@@ -1,116 +1,112 @@
-# Hi there 👋, I'm [Your Name]  
-I'm a passionate Full Stack Developer eager to create meaningful solutions and contribute to the development community. Welcome to my GitHub!
+# MERN Stack Developer Portfolio
 
-![Banner Image](https://example.com/your-banner-image.png)  <!-- Replace this with your high-quality image link -->
+Welcome to my MERN Stack Developer Portfolio! Here, you can learn more about my work, skills, and projects. I specialize in building full-stack web applications using MongoDB, Express.js, React, and Node.js.
 
----
+## 📸 Profile Image
+
+![Profile](./images/profile.jpg)
+
+## 💻 About Me
+
+Hello! I'm [Your Name], a passionate MERN stack developer with a focus on creating dynamic and responsive web applications. I have experience building applications from scratch using the latest technologies and following best practices in coding.
+
+- 🔭 I’m currently working on [Your Current Project]
+- 🌱 I’m learning more about advanced topics in [e.g., GraphQL, TypeScript]
+- 💬 Ask me about anything related to web development, especially MERN stack.
+- 📫 You can reach me at [your email address]
 
 ## 🚀 Skills
+## 🚀 Skills
 
-### Front-End Development
+### Frontend:
+<div style="display: flex; justify-content: space-around;">
+  <img src="./images/icons/react.svg" alt="React" width="50" height="50" title="React"/>
+  <img src="./images/icons/html5.svg" alt="HTML5" width="50" height="50" title="HTML5"/>
+  <img src="./images/icons/css3.svg" alt="CSS3" width="50" height="50" title="CSS3"/>
+  <img src="./images/icons/js.svg" alt="JavaScript" width="50" height="50" title="JavaScript"/>
+  <img src="./images/icons/redux.svg" alt="Redux" width="50" height="50" title="Redux"/>
+</div>
 
-<p align="center">
-  <img src="https://img.icons8.com/fluency/452/html-5.png" width="60" alt="HTML5"/>
-  <img src="https://img.icons8.com/fluency/452/css3.png" width="60" alt="CSS3"/>
-  <img src="https://img.icons8.com/fluency/452/javascript.png" width="60" alt="JavaScript"/>
-  <img src="https://img.icons8.com/fluency/452/react.png" width="60" alt="React"/>
-  <img src="https://img.icons8.com/fluency/452/vue-js.png" width="60" alt="Vue.js"/>
-  <img src="https://img.icons8.com/fluency/452/angular.png" width="60" alt="Angular"/>
-</p>
+### Backend:
+<div style="display: flex; justify-content: space-around;">
+  <img src="./images/icons/nodejs.svg" alt="Node.js" width="50" height="50" title="Node.js"/>
+  <img src="./images/icons/express.svg" alt="Express.js" width="50" height="50" title="Express.js"/>
+</div>
 
-### Back-End Development
+### Database:
+<div style="display: flex; justify-content: space-around;">
+  <img src="./images/icons/mongodb.svg" alt="MongoDB" width="50" height="50" title="MongoDB"/>
+</div>
 
-<p align="center">
-  <img src="https://img.icons8.com/fluency/452/nodejs.png" width="60" alt="Node.js"/>
-  <img src="https://img.icons8.com/fluency/452/python.png" width="60" alt="Python"/>
-  <img src="https://img.icons8.com/fluency/452/django.png" width="60" alt="Django"/>
-  <img src="https://img.icons8.com/fluency/452/flask.png" width="60" alt="Flask"/>
-  <img src="https://img.icons8.com/fluency/452/express-js.png" width="60" alt="Express.js"/>
-</p>
-
-### Databases
-
-<p align="center">
-  <img src="https://img.icons8.com/fluency/452/mongodb.png" width="60" alt="MongoDB"/>
-  <img src="https://img.icons8.com/fluency/452/postgresql.png" width="60" alt="PostgreSQL"/>
-  <img src="https://img.icons8.com/fluency/452/mysql-logo.png" width="60" alt="MySQL"/>
-</p>
-
-### Version Control & Other Tools
-
-<p align="center">
-  <img src="https://img.icons8.com/fluency/452/git.png" width="60" alt="Git"/>
-  <img src="https://img.icons8.com/fluency/452/github.png" width="60" alt="GitHub"/>
-  <img src="https://img.icons8.com/fluency/452/docker.png" width="60" alt="Docker"/>
-  <img src="https://img.icons8.com/fluency/452/aws.png" width="60" alt="AWS"/>
-  <img src="https://img.icons8.com/fluency/452/jenkins.png" width="60" alt="Jenkins"/>
-</p>
+### Other Skills:
+<div style="display: flex; justify-content: space-around;">
+  <img src="./images/icons/git.svg" alt="Git" width="50" height="50" title="Git"/>
+  <img src="./images/icons/github.svg" alt="GitHub" width="50" height="50" title="GitHub"/>
+  <img src="./images/icons/jwt.svg" alt="JWT" width="50" height="50" title="JWT"/>
+</div>
 
 ---
 
-## 🎓 Education
+## 🛠️ Technologies
 
-**[Your University]**  
-*Bachelor’s/Master's in [Your Major]*  
-Graduated: [Year]  
-Key Courses: Web Development, Data Structures, Algorithms, Databases, Software Engineering
+<div style="display: flex; justify-content: space-around;">
+  <img src="./images/icons/mongodb.svg" alt="MongoDB" width="50" height="50" title="MongoDB"/>
+  <img src="./images/icons/express.svg" alt="Express.js" width="50" height="50" title="Express.js"/>
+  <img src="./images/icons/react.svg" alt="React" width="50" height="50" title="React"/>
+  <img src="./images/icons/nodejs.svg" alt="Node.js" width="50" height="50" title="Node.js"/>
+</div>
 
----
+<div style="display: flex; justify-content: space-around;">
+  <img src="./images/icons/html5.svg" alt="HTML5" width="50" height="50" title="HTML5"/>
+  <img src="./images/icons/css3.svg" alt="CSS3" width="50" height="50" title="CSS3"/>
+  <img src="./images/icons/js.svg" alt="JavaScript" width="50" height="50" title="JavaScript"/>
+</div>
 
-## 💡 Projects
 
-### 1. **[Project Title]**
-   - **Description:** A brief description of what this project does.
-   - **Tech Stack:** React, Node.js, MongoDB, Express
-   - **Features:**  
-     - Feature 1
-     - Feature 2
-     - Feature 3
-   - **Link:** [Project Repository Link](#)
+## 📂 Projects
 
-### 2. **[Project Title]**
-   - **Description:** A brief description of what this project does.
-   - **Tech Stack:** Python, Django, PostgreSQL
-   - **Features:**  
-     - Feature 1
-     - Feature 2
-     - Feature 3
-   - **Link:** [Project Repository Link](#)
+Here are some of my notable projects built using the MERN stack:
 
-### 3. **[Project Title]**
-   - **Description:** A brief description of what this project does.
-   - **Tech Stack:** JavaScript, Vue.js, MySQL
-   - **Features:**  
-     - Feature 1
-     - Feature 2
-   - **Link:** [Project Repository Link](#)
+### Project 1: **[Project Name](link-to-project)**
+- **Description**: A brief overview of the project and its features.
+- **Tech Stack**: React, Node.js, MongoDB, Express
+- **Live Demo**: [Link to live demo](#)
+- **GitHub Repo**: [Project Repo](#)
 
----
+### Project 2: **[Project Name](link-to-project)**
+- **Description**: A brief overview of the project and its features.
+- **Tech Stack**: React, Node.js, MongoDB, Express
+- **Live Demo**: [Link to live demo](#)
+- **GitHub Repo**: [Project Repo](#)
 
-## 🌱 Currently Learning
+### Project 3: **[Project Name](link-to-project)**
+- **Description**: A brief overview of the project and its features.
+- **Tech Stack**: React, Node.js, MongoDB, Express
+- **Live Demo**: [Link to live demo](#)
+- **GitHub Repo**: [Project Repo](#)
 
-- GraphQL
-- Kubernetes
-- Advanced JavaScript concepts
-- CI/CD best practices
+## 💼 Work Experience
 
----
+### [Job Title / Position] | [Company Name]
+**Date**: [Start Date] – [End Date]
+- Description of your role, key responsibilities, and any accomplishments during your time here.
 
-## 💬 Let's Connect
+### [Job Title / Position] | [Company Name]
+**Date**: [Start Date] – [End Date]
+- Description of your role, key responsibilities, and any accomplishments during your time here.
 
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Email:** [Your Email Address](mailto:youremail@example.com)
+## 🔗 Contact Me
 
----
+- **LinkedIn**: [LinkedIn Profile](#)
+- **GitHub**: [GitHub Profile](#)
+- **Twitter**: [Twitter Handle](#)
+- **Email**: [Your Email Address]
 
-## ⚡ Fun Fact
+## 🚀 Let's Build Something Together!
 
-- I'm also passionate about [insert hobby or fun fact].
-
----
-
-## 🎬 Checkout My Animation Below!
-
-![Animation](https://example.com/your-animation.gif)  <!-- Replace with your animation GIF link -->
+Feel free to explore my projects and reach out if you'd like to collaborate on something exciting. Thank you for visiting my portfolio!
 
 ---
+
+*Note: Replace placeholders like `[Your Name]`, `[Your Email Address]`, etc., with your own details.*
+
