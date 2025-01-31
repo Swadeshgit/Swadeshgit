@@ -39,11 +39,12 @@ Hello! I'm **[Your Name]**, a MERN Stack Developer. I specialize in building sca
 </div>
 
 ### **Other Tools:**
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <img src="images/icons/git.svg" alt="Git" width="50" height="50" title="Git"/>
-  <img src="images/icons/github.svg" alt="GitHub" width="50" height="50" title="GitHub"/>
-  <img src="images/icons/jwt.svg" alt="JWT" width="50" height="50" title="JWT"/>
-</div>
+## 💻 Other Tools
+
+| Git | GitHub | JWT |
+|-----|--------|-----|
+| ![Git](./images/icons/git.svg) | ![GitHub](./images/icons/github.svg) | ![JWT](./images/icons/jwt.svg) |
+
 
 ---
 
