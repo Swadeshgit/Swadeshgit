@@ -100,4 +100,34 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
 
 </details>
 
+# My MERN Stack Portfolio
+
+## 🔧 Technologies & Tools
+<!-- Your tech stack -->
+
+## GitHub Stats ⚡
+
+<details>
+  <summary>Click to view GitHub Stats</summary>
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=john-doe&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+</details>
+
+## Most Used Languages (MERN Stack)
+
+<details>
+  <summary>Click to view Most Used Languages</summary>
+
+  <!-- Add the MERN related languages -->
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+  <!-- GitHub stats API for showing actual used languages -->
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=john-doe&layout=compact&langs_count=6&exclude_repo=your-other-repo)
+
+</details>
+
 ### Feel free to explore my repositories, check out my projects, and let's connect! Happy coding! 😊
