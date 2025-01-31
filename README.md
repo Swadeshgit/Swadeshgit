@@ -109,4 +109,66 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
 ---
 ![Cartoon Avatar](https://link-to-your-cartoon-image.jpg)
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Technologies & Tools</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <section class="technologies-tools">
+        <h2>🔧 Technologies & Tools</h2>
+
+        <div class="category">
+            <h3>Frontend</h3>
+            <div class="icons">
+                <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
+                <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+                <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+                <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+                <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+                <img src="https://img.shields.io/badge/-Material%20UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI">
+            </div>
+        </div>
+
+        <div class="category">
+            <h3>Backend</h3>
+            <div class="icons">
+                <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+                <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+                <img src="https://img.shields.io/badge/-REST%20APIs-000000?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs">
+                <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
+            </div>
+        </div>
+
+        <div class="category">
+            <h3>Database</h3>
+            <div class="icons">
+                <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+                <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+            </div>
+        </div>
+
+        <div class="category">
+            <h3>Version Control</h3>
+            <div class="icons">
+                <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+                <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+            </div>
+        </div>
+
+        <div class="category">
+            <h3>Others</h3>
+            <div class="icons">
+                <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+                <img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+                <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+            </div>
+        </div>
+    </section>
+</body>
+</html>
+
 ### Feel free to explore my repositories, check out my projects, and let's connect! Happy coding! 😊
