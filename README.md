@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack Developer** with a strong foundation in **MongoDB**, **Express.js**, **React**, and **Node.js**. I am always eager to learn and expand my skills.
 
-![Cartoon Avatar](https://link-to-your-cartoon-image.jpg)  <!-- Update with your own image link -->
-
 ## 💻 About Me
 
 - 🔭 I’m currently working on building full-stack web applications using the **MERN stack**.
@@ -20,8 +18,6 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
 - **Database**: MongoDB, Firebase
 - **Version Control**: Git, GitHub
 - **Others**: Docker, Nginx, Postman
-
-
 
 ## 🔧 Technologies & Tools
 
