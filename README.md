@@ -1,37 +1,20 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm [ Swadesh Kumar Maurya ] 👋
 
-Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack Developer** with a strong foundation in **MongoDB**, **Express.js**, **React**, and **Node.js**. I am always eager to learn and expand my skills.
+Here’s a more concise version that still conveys professionalism:
+
+Welcome to my GitHub profile!
+I’m a passionate MERN Stack Developer with expertise in **MongoDB, Express.js, React, and Node.js**. I specialize in building scalable web applications and delivering end-to-end solutions with clean, maintainable code. Eager to learn and grow, I thrive in collaborative environments and am always looking for opportunities to contribute to impactful projects. **Let’s connect**!
 
 ## 💻 About Me
 
 - 🔭 I’m currently working on building full-stack web applications using the **MERN stack**.
-- 🌱 I’m learning new technologies like **GraphQL**, **TypeScript**, and **AWS**.
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m currently exploring **Blockchain** and **AI** technologies.
 - 💬 Ask me about anything related to web development and the MERN stack!
 - ⚡ Fun fact: I love working on **UI/UX design** and making the user experience seamless and engaging.
 
-## 🔧 Technologies & Tools
-
-- **Frontend**: React.js, Redux, HTML, CSS, Bootstrap, Material UI
-- **Backend**: Node.js, Express.js, REST APIs, GraphQL
-- **Database**: MongoDB, Firebase
-- **Version Control**: Git, GitHub
-- **Others**: Docker, Nginx, Postman
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnDoe123&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-## 💻 Tech Stack
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ## 🔧 Technologies & Tools
-
 <details>
 <div displey='flex'>
   <div> <p align="center">
@@ -70,7 +53,6 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
 ## 📫 How to reach me
 
 - 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 Portfolio: [your-portfolio-link.com](http://your-portfolio-link.com)
 - 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
 - 🐦 Twitter: [@YourTwitter](https://twitter.com/yourprofile)
 
