@@ -1,7 +1,7 @@
 # Hi there 👋, I'm [Your Name]  
 I'm a passionate Full Stack Developer eager to create meaningful solutions and contribute to the development community. Welcome to my GitHub!
 
-![Banner Image](https://example.com/your-banner-image.png)  <!-- Replace this with your image link -->
+![Banner Image](https://example.com/your-banner-image.png)  <!-- Replace this with your high-quality image link -->
 
 ---
 
@@ -10,40 +10,40 @@ I'm a passionate Full Stack Developer eager to create meaningful solutions and c
 ### Front-End Development
 
 <p align="center">
-  <img src="https://img.icons8.com/ios/452/html-5.png" width="50" alt="HTML5"/>
-  <img src="https://img.icons8.com/ios/452/css3.png" width="50" alt="CSS3"/>
-  <img src="https://img.icons8.com/ios/452/javascript.png" width="50" alt="JavaScript"/>
-  <img src="https://img.icons8.com/ios/452/react.png" width="50" alt="React"/>
-  <img src="https://img.icons8.com/ios/452/vue-js.png" width="50" alt="Vue.js"/>
-  <img src="https://img.icons8.com/ios/452/angular.png" width="50" alt="Angular"/>
+  <img src="https://img.icons8.com/fluency/452/html-5.png" width="60" alt="HTML5"/>
+  <img src="https://img.icons8.com/fluency/452/css3.png" width="60" alt="CSS3"/>
+  <img src="https://img.icons8.com/fluency/452/javascript.png" width="60" alt="JavaScript"/>
+  <img src="https://img.icons8.com/fluency/452/react.png" width="60" alt="React"/>
+  <img src="https://img.icons8.com/fluency/452/vue-js.png" width="60" alt="Vue.js"/>
+  <img src="https://img.icons8.com/fluency/452/angular.png" width="60" alt="Angular"/>
 </p>
 
 ### Back-End Development
 
 <p align="center">
-  <img src="https://img.icons8.com/ios/452/nodejs.png" width="50" alt="Node.js"/>
-  <img src="https://img.icons8.com/ios/452/python.png" width="50" alt="Python"/>
-  <img src="https://img.icons8.com/ios/452/django.png" width="50" alt="Django"/>
-  <img src="https://img.icons8.com/ios/452/flask.png" width="50" alt="Flask"/>
-  <img src="https://img.icons8.com/ios/452/express-js.png" width="50" alt="Express.js"/>
+  <img src="https://img.icons8.com/fluency/452/nodejs.png" width="60" alt="Node.js"/>
+  <img src="https://img.icons8.com/fluency/452/python.png" width="60" alt="Python"/>
+  <img src="https://img.icons8.com/fluency/452/django.png" width="60" alt="Django"/>
+  <img src="https://img.icons8.com/fluency/452/flask.png" width="60" alt="Flask"/>
+  <img src="https://img.icons8.com/fluency/452/express-js.png" width="60" alt="Express.js"/>
 </p>
 
 ### Databases
 
 <p align="center">
-  <img src="https://img.icons8.com/ios/452/mongodb.png" width="50" alt="MongoDB"/>
-  <img src="https://img.icons8.com/ios/452/postgresql.png" width="50" alt="PostgreSQL"/>
-  <img src="https://img.icons8.com/ios/452/mysql-logo.png" width="50" alt="MySQL"/>
+  <img src="https://img.icons8.com/fluency/452/mongodb.png" width="60" alt="MongoDB"/>
+  <img src="https://img.icons8.com/fluency/452/postgresql.png" width="60" alt="PostgreSQL"/>
+  <img src="https://img.icons8.com/fluency/452/mysql-logo.png" width="60" alt="MySQL"/>
 </p>
 
 ### Version Control & Other Tools
 
 <p align="center">
-  <img src="https://img.icons8.com/ios/452/git.png" width="50" alt="Git"/>
-  <img src="https://img.icons8.com/ios/452/github.png" width="50" alt="GitHub"/>
-  <img src="https://img.icons8.com/ios/452/docker.png" width="50" alt="Docker"/>
-  <img src="https://img.icons8.com/ios/452/aws.png" width="50" alt="AWS"/>
-  <img src="https://img.icons8.com/ios/452/jenkins.png" width="50" alt="Jenkins"/>
+  <img src="https://img.icons8.com/fluency/452/git.png" width="60" alt="Git"/>
+  <img src="https://img.icons8.com/fluency/452/github.png" width="60" alt="GitHub"/>
+  <img src="https://img.icons8.com/fluency/452/docker.png" width="60" alt="Docker"/>
+  <img src="https://img.icons8.com/fluency/452/aws.png" width="60" alt="AWS"/>
+  <img src="https://img.icons8.com/fluency/452/jenkins.png" width="60" alt="Jenkins"/>
 </p>
 
 ---
@@ -114,4 +114,3 @@ Key Courses: Web Development, Data Structures, Algorithms, Databases, Software E
 ![Animation](https://example.com/your-animation.gif)  <!-- Replace with your animation GIF link -->
 
 ---
-
