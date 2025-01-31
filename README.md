@@ -37,6 +37,13 @@ Hello! I'm **[Your Name]**, a MERN Stack Developer. I specialize in building sca
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img src="images/icons/mongodb.svg" alt="MongoDB" width="50" height="50" title="MongoDB"/>
 </div>
+## 🚀 Skills and Technologies
+
+### **Frontend:**
+
+| React | HTML5 | CSS3 | Redux |
+|-------|-------|------|-------|
+| ![React](./images/icons/react.svg) | ![HTML5](./images/icons/html5.svg) | ![CSS3](./images/icons/css3.svg) | ![Redux](./images/icons/redux.svg) |
 
 ### **Other Tools:**
 ## 💻 Other Tools
