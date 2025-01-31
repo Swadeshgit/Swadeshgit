@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
 
 ## 🔧 Technologies & Tools
 
-<details>
+<details🔧 Technologies & Tools>
 <div displey='flex'>
   <div> <p align="center">
   <h1>Frontend</h1>
