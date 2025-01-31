@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
 - **Version Control**: Git, GitHub
 - **Others**: Docker, Nginx, Postman
 ## 🔧 Technologies & Tools
-  <p align="center">
+<div display="flex"><p align="center">
   <h1>Frontend</h1>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,bootstrap,materialui" />
@@ -32,7 +32,9 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,expressjs,restapi," />
   </a>
-</p>
+</p></div>
+  
+
 ### **Backend**  
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
   ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
