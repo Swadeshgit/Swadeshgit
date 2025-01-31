@@ -31,6 +31,11 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
   [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
   <p align="center">
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,nodejs" />
+  </a>
+</p>
+  <p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
