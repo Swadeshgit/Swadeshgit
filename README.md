@@ -7,20 +7,44 @@ I'm a passionate Full Stack Developer eager to create meaningful solutions and c
 
 ## 🚀 Skills
 
-- **Languages:**  
-  - JavaScript (ES6+), Python, Java, HTML5, CSS3, SQL
-- **Front-End:**  
-  - React, Angular, Vue.js, HTML, CSS, Tailwind CSS, Bootstrap
-- **Back-End:**  
-  - Node.js, Express.js, Django, Flask
-- **Databases:**  
-  - MongoDB, PostgreSQL, MySQL, SQLite
-- **Version Control:**  
-  - Git, GitHub
-- **Tools & Technologies:**  
-  - Docker, Jenkins, AWS, NGINX, Webpack, REST APIs, GraphQL
-- **Other Skills:**  
-  - Responsive Design, Test-Driven Development (TDD), Agile Methodologies
+### Front-End Development
+
+<p align="center">
+  <img src="https://img.icons8.com/ios/452/html-5.png" width="50" alt="HTML5"/>
+  <img src="https://img.icons8.com/ios/452/css3.png" width="50" alt="CSS3"/>
+  <img src="https://img.icons8.com/ios/452/javascript.png" width="50" alt="JavaScript"/>
+  <img src="https://img.icons8.com/ios/452/react.png" width="50" alt="React"/>
+  <img src="https://img.icons8.com/ios/452/vue-js.png" width="50" alt="Vue.js"/>
+  <img src="https://img.icons8.com/ios/452/angular.png" width="50" alt="Angular"/>
+</p>
+
+### Back-End Development
+
+<p align="center">
+  <img src="https://img.icons8.com/ios/452/nodejs.png" width="50" alt="Node.js"/>
+  <img src="https://img.icons8.com/ios/452/python.png" width="50" alt="Python"/>
+  <img src="https://img.icons8.com/ios/452/django.png" width="50" alt="Django"/>
+  <img src="https://img.icons8.com/ios/452/flask.png" width="50" alt="Flask"/>
+  <img src="https://img.icons8.com/ios/452/express-js.png" width="50" alt="Express.js"/>
+</p>
+
+### Databases
+
+<p align="center">
+  <img src="https://img.icons8.com/ios/452/mongodb.png" width="50" alt="MongoDB"/>
+  <img src="https://img.icons8.com/ios/452/postgresql.png" width="50" alt="PostgreSQL"/>
+  <img src="https://img.icons8.com/ios/452/mysql-logo.png" width="50" alt="MySQL"/>
+</p>
+
+### Version Control & Other Tools
+
+<p align="center">
+  <img src="https://img.icons8.com/ios/452/git.png" width="50" alt="Git"/>
+  <img src="https://img.icons8.com/ios/452/github.png" width="50" alt="GitHub"/>
+  <img src="https://img.icons8.com/ios/452/docker.png" width="50" alt="Docker"/>
+  <img src="https://img.icons8.com/ios/452/aws.png" width="50" alt="AWS"/>
+  <img src="https://img.icons8.com/ios/452/jenkins.png" width="50" alt="Jenkins"/>
+</p>
 
 ---
 
