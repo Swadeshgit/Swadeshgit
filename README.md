@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
 ## 🔧 Technologies & Tools
 
 <details>
-<div display="flex">
+<div displey='flex'>
   <div> <p align="center">
   <h1>Frontend</h1>
   <a href="https://skillicons.dev">
