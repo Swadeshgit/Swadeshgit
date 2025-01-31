@@ -73,12 +73,38 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
 ## Most Used Languages (MERN Stack)
 
 <details>
-  <summary>Click to view Most Used Languages</summary>
-
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<div display="flex">
+  <div> <p align="center">
+  <h1>Frontend</h1>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,bootstrap,materialui" />
+  </a>
+</p></div>
+ <div> <p align="center">
+     <h1>Backend</h1>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,restapi," />
+  </a>
+</p></div>
+ </div>
+  <p align="center">
+     <h1>Database</h1>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,sql,," />
+  </a>
+</p>
+<p align="center">
+     <h1> Version Control</h1>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github," />
+  </a>
+</p>
+<p align="center">
+     <h1>Others</h1>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,postman," />
+  </a>
+</p>
 
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=john-doe&layout=compact&langs_count=6&exclude_repo=your-other-repo)
 
