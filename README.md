@@ -21,22 +21,16 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
 - **Version Control**: Git, GitHub
 - **Others**: Docker, Nginx, Postman
 ## 🔧 Technologies & Tools
-
-### **Frontend**  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)     ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)     ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)       
-  ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
   <p align="center">
+  <h1>Frontend</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,Bootstrap,materialui" />
   </a>
 </p>
   <p align="center">
+     <h1>Backend</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,restapi," />
   </a>
 </p>
 ### **Backend**  
