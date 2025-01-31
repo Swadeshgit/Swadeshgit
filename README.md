@@ -15,34 +15,33 @@ Hello! I'm [Your Name], a passionate MERN stack developer with a focus on creati
 - 💬 Ask me about anything related to web development, especially MERN stack.
 - 📫 You can reach me at [your email address]
 
-## 🚀 Skills
-## 🚀 Skills
+## 🚀 Skills## 🚀 Skills
 
 ### Frontend:
 <div style="display: flex; justify-content: space-around;">
-  <img src="./images/icons/react.svg" alt="React" width="50" height="50" title="React"/>
-  <img src="./images/icons/html5.svg" alt="HTML5" width="50" height="50" title="HTML5"/>
-  <img src="./images/icons/css3.svg" alt="CSS3" width="50" height="50" title="CSS3"/>
-  <img src="./images/icons/js.svg" alt="JavaScript" width="50" height="50" title="JavaScript"/>
-  <img src="./images/icons/redux.svg" alt="Redux" width="50" height="50" title="Redux"/>
+  <img src="images/icons/react.svg" alt="React" width="50" height="50" title="React"/>
+  <img src="images/icons/html5.svg" alt="HTML5" width="50" height="50" title="HTML5"/>
+  <img src="images/icons/css3.svg" alt="CSS3" width="50" height="50" title="CSS3"/>
+  <img src="images/icons/js.svg" alt="JavaScript" width="50" height="50" title="JavaScript"/>
+  <img src="images/icons/redux.svg" alt="Redux" width="50" height="50" title="Redux"/>
 </div>
 
 ### Backend:
 <div style="display: flex; justify-content: space-around;">
-  <img src="./images/icons/nodejs.svg" alt="Node.js" width="50" height="50" title="Node.js"/>
-  <img src="./images/icons/express.svg" alt="Express.js" width="50" height="50" title="Express.js"/>
+  <img src="images/icons/nodejs.svg" alt="Node.js" width="50" height="50" title="Node.js"/>
+  <img src="images/icons/express.svg" alt="Express.js" width="50" height="50" title="Express.js"/>
 </div>
 
 ### Database:
 <div style="display: flex; justify-content: space-around;">
-  <img src="./images/icons/mongodb.svg" alt="MongoDB" width="50" height="50" title="MongoDB"/>
+  <img src="images/icons/mongodb.svg" alt="MongoDB" width="50" height="50" title="MongoDB"/>
 </div>
 
 ### Other Skills:
 <div style="display: flex; justify-content: space-around;">
-  <img src="./images/icons/git.svg" alt="Git" width="50" height="50" title="Git"/>
-  <img src="./images/icons/github.svg" alt="GitHub" width="50" height="50" title="GitHub"/>
-  <img src="./images/icons/jwt.svg" alt="JWT" width="50" height="50" title="JWT"/>
+  <img src="images/icons/git.svg" alt="Git" width="50" height="50" title="Git"/>
+  <img src="images/icons/github.svg" alt="GitHub" width="50" height="50" title="GitHub"/>
+  <img src="images/icons/jwt.svg" alt="JWT" width="50" height="50" title="JWT"/>
 </div>
 
 ---
@@ -50,18 +49,17 @@ Hello! I'm [Your Name], a passionate MERN stack developer with a focus on creati
 ## 🛠️ Technologies
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="./images/icons/mongodb.svg" alt="MongoDB" width="50" height="50" title="MongoDB"/>
-  <img src="./images/icons/express.svg" alt="Express.js" width="50" height="50" title="Express.js"/>
-  <img src="./images/icons/react.svg" alt="React" width="50" height="50" title="React"/>
-  <img src="./images/icons/nodejs.svg" alt="Node.js" width="50" height="50" title="Node.js"/>
+  <img src="images/icons/mongodb.svg" alt="MongoDB" width="50" height="50" title="MongoDB"/>
+  <img src="images/icons/express.svg" alt="Express.js" width="50" height="50" title="Express.js"/>
+  <img src="images/icons/react.svg" alt="React" width="50" height="50" title="React"/>
+  <img src="images/icons/nodejs.svg" alt="Node.js" width="50" height="50" title="Node.js"/>
 </div>
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="./images/icons/html5.svg" alt="HTML5" width="50" height="50" title="HTML5"/>
-  <img src="./images/icons/css3.svg" alt="CSS3" width="50" height="50" title="CSS3"/>
-  <img src="./images/icons/js.svg" alt="JavaScript" width="50" height="50" title="JavaScript"/>
+  <img src="images/icons/html5.svg" alt="HTML5" width="50" height="50" title="HTML5"/>
+  <img src="images/icons/css3.svg" alt="CSS3" width="50" height="50" title="CSS3"/>
+  <img src="images/icons/js.svg" alt="JavaScript" width="50" height="50" title="JavaScript"/>
 </div>
-
 
 ## 📂 Projects
 
