@@ -20,13 +20,12 @@ Hello! I'm **[Your Name]**, a MERN Stack Developer. I specialize in building sca
 ## 🚀 Skills and Technologies
 
 ### **Frontend:**
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <img src="./images/icons/react.svg" alt="React" width="50" height="50" title="React"/>
-  <img src="./images/icons/html5.svg" alt="HTML5" width="50" height="50" title="HTML5"/>
-  <img src="./images/icons/css3.svg" alt="CSS3" width="50" height="50" title="CSS3"/>
-  <img src="images/icons/js.svg" alt="JavaScript" width="50" height="50" title="JavaScript"/>
-  <img src="images/icons/redux.svg" alt="Redux" width="50" height="50" title="Redux"/>
-</div>
+## 🚀 Skills and Technologies
+
+### Frontend:
+![React](./images/icons/react.svg) ![HTML5](./images/icons/html5.svg) ![CSS3](./images/icons/css3.svg) ![JavaScript](./images/icons/js.svg) ![Redux](./images/icons/redux.svg)
+
+
 
 ### **Backend:**
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
