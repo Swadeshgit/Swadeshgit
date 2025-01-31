@@ -105,21 +105,6 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
     <img src="https://skillicons.dev/icons?i=docker,postman," />
   </a>
 </p>
-
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=john-doe&layout=compact&langs_count=6&exclude_repo=your-other-repo)
-
-</details>
-
-## Skills Progress Bar (Bar Chart Representation)
-
-<details>
-  <summary>Click to view Skills</summary>
-
-  ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
-  ![React](https://img.shields.io/badge/React-85%25-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-80%25-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-70%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
 </details>
 
 ### Feel free to explore my repositories, check out my projects, and let's connect! Happy coding! 😊
