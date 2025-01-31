@@ -21,18 +21,20 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
 - **Version Control**: Git, GitHub
 - **Others**: Docker, Nginx, Postman
 ## 🔧 Technologies & Tools
-<div display="flex"><p align="center">
+<div display="flex">
+  <div> <p align="center">
   <h1>Frontend</h1>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,bootstrap,materialui" />
   </a>
-</p>
-  <p align="center">
+</p></div>
+ <div> <p align="center">
      <h1>Backend</h1>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,expressjs,restapi," />
   </a>
 </p></div>
+ </div>
   
 
 ### **Backend**  
