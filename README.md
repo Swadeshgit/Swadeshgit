@@ -56,52 +56,6 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
 </p>
 </details>
 
-<p align="center">
-  <h1>Database</h1>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,sql" />
-  </a>
-</p>
-
-<p align="center">
-  <h1>Version Control</h1>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github" />
-  </a>
-</p>
-
-<p align="center">
-  <h1>Others</h1>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,postman" />
-  </a>
-</p>
-
-<!-- Flexbox layout for better arrangement -->
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-  <p align="center">
-    <h1>Database</h1>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mongodb,firebase,sql" />
-    </a>
-  </p>
-
-  <p align="center">
-    <h1>Version Control</h1>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github" />
-    </a>
-  </p>
-
-  <p align="center">
-    <h1>Others</h1>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=docker,postman" />
-    </a>
-  </p>
-</div>
-
-  
 ## 📫 How to reach me
 
 - 📧 Email: [your-email@example.com](mailto:your-email@example.com)
@@ -117,4 +71,5 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=john-doe&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 </details>
+
 ### Feel free to explore my repositories, check out my projects, and let's connect! Happy coding! 😊
