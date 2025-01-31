@@ -30,15 +30,6 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-## 🚀 My Skills
-| Frontend    | Backend         | Database       | Other Tools    |
-|-------------|-----------------|----------------|----------------|
-| React.js  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,bootstrap,materialui" />
-  </a>       | Node.js         | MongoDB        | Git/GitHub     |
-| Redux       | Express.js      | Mongoose       | Docker         |
-| HTML/CSS    | JWT Authentication | Postman    | Nginx          |
-
 ## 🔧 Technologies & Tools
 
 <details>
