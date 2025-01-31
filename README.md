@@ -62,4 +62,6 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
 - 🐦 Twitter: [@YourTwitter](https://twitter.com/yourprofile)
 
 ## 👨‍💻 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=john-doe&show_icons=true&count_private=true&hide_title=true&theme=radical)
+
 ### Feel free to explore my repositories, check out my projects, and let's connect! Happy coding! 😊
