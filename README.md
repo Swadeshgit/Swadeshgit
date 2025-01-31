@@ -50,6 +50,8 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
   ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)  
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+
 ## 🚀 Projects
 
 ### 1. **Project Name**  
