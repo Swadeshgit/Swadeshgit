@@ -22,6 +22,21 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
 
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnDoe123&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## 💻 Tech Stack
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+## 🚀 My Skills
+| Frontend    | Backend         | Database       | Other Tools    |
+|-------------|-----------------|----------------|----------------|
+| React.js    | Node.js         | MongoDB        | Git/GitHub     |
+| Redux       | Express.js      | Mongoose       | Docker         |
+| HTML/CSS    | JWT Authentication | Postman    | Nginx          |
+
 ## 🔧 Technologies & Tools
 
 <details>
