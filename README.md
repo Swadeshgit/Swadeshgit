@@ -47,5 +47,6 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated **MERN Stack D
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&theme=dark)
 
 ---
+![Cartoon Avatar](https://link-to-your-cartoon-image.jpg)
 
 ### Feel free to explore my repositories, check out my projects, and let's connect! Happy coding! 😊
