@@ -52,9 +52,8 @@ I’m a passionate MERN Stack Developer with expertise in **MongoDB, Express.js,
 
 ## 📫 How to reach me
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐦 Twitter: [@YourTwitter](https://twitter.com/yourprofile)
+- 📧 Email: [swadeshitmaurya@gmail.com](swadeshitmaurya@gmail.com)
+- 💼 LinkedIn: [Your LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/swadesh-maurya?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ## GitHub Stats ⚡
 
